@@ -33,6 +33,7 @@
     font-size: 18px;
     color: var(--color-white);
     font-family: var(--Roboto-regular);
+    font-weight: 400;
 }
 
 .nav__list-item--hide {
@@ -83,10 +84,12 @@
     color: var(--color-white);
     margin-top: 124px;
     margin-bottom: 12px;
+    font-weight: 500;
 }
 
 .hero__title span {
     font-family: var(--Roboto-bold);
+    font-weight: 600;
 }
 
 .hero__btn {
@@ -105,6 +108,7 @@
     font-family: var(--Roboto-medium);
     font-size: 24px;
     color: var(--color-white);
+    font-weight: 500;
 }
 
 .hero__advantages-text {
@@ -148,6 +152,7 @@
     color: var(--color-white);
     padding-top: 2px;
     padding-left: 7px;
+    font-weight: 500;
 }
 
 .hero__icon-container {
@@ -167,6 +172,7 @@
     line-height: 1.4;
     color: var(--color-white);
     font-family: var(--Roboto-regular);
+    font-weight: 400;
     max-width: 380px;
 }
 
@@ -203,6 +209,7 @@
 
 .description__text {
     font-family: var(--Roboto-regular);
+    font-weight: 400;
     margin-top: 34px;
     letter-spacing: 0.05em;
     font-size: 18px;
@@ -254,6 +261,7 @@ background: #fdfdfd;
 .tour__slide-title {
     font-size: 18px;
     font-family: var(--Roboto-bold);
+    font-weight: 600;
     color: #103a58;
     margin-bottom: 7px;
     padding-inline: 20px;
@@ -261,6 +269,7 @@ background: #fdfdfd;
 }
 .tour__slide-text {
     font-family: var(--Roboto-regular);
+    font-weight: 400;
     font-size: 14px;
     letter-spacing: 0.05em;
     color: rgba(16, 58, 88, 0.5);
@@ -316,6 +325,7 @@ background: #fdfdfd;
 }
 .feedback__slide-name {
     font-family: var(--Roboto-medium);
+    font-weight: 500;
     margin-top: 14px;
     margin-bottom: 14px;
     font-size: 28px;
@@ -323,6 +333,7 @@ background: #fdfdfd;
 }
 .feedback__slide-text {
     font-family: var(--Roboto-regular);
+    font-weight: 400;
     font-size: 20px;
     letter-spacing: 0.05em;
     text-align: center;
@@ -360,6 +371,7 @@ background: #fdfdfd;
 }
 .article-text__container {
     font-family: var(--Roboto-regular);
+    font-weight: 400;
     padding-top: 26px;
     padding-bottom: 28px;
     border-top: 1px solid #c4c4c4;
@@ -458,6 +470,7 @@ background: #fdfdfd;
 }
 .contacts__social-title {
     font-family: var(--Roboto-regular);
+    font-weight: 400;
     margin-top: 22px;
     margin-bottom: 22px;
     font-size: 18px;
@@ -496,6 +509,7 @@ background: #fdfdfd;
 
 .footer__nav-item a{
     font-family: var(--Roboto-regular);
+    font-weight: 400;
     font-size: 18px;
 }
 
@@ -533,11 +547,13 @@ background: #fdfdfd;
 
 .link-tel {
     font-family: var(--Roboto-medium);
+    font-weight: 500;
     font-size: 22px;
 }
 
 .link-mail {
     font-family: var(--Roboto-regular);
+    font-weight: 400;
     font-size: 18px;
 }
 
@@ -550,6 +566,7 @@ background: #fdfdfd;
 .copy {
     margin-top: 16px;
     font-family: var(--Roboto-regular);
+    font-weight: 400;
     font-size: 12px;
     color: #fff;
 }
@@ -626,6 +643,7 @@ background: #fdfdfd;
         width: 100%;
         text-align: center;
         font-family: var(--Roboto-medium);
+        font-weight: 500;
         font-size: 30px;
         color: #103a58;
         opacity: 0.5;
@@ -728,6 +746,7 @@ background: #fdfdfd;
         text-decoration-skip-ink: none;
         text-align: center;
         font-family: var(--Roboto-regular);
+        font-weight: 400;
     }
 }
 
@@ -834,3 +853,4 @@ background: #fdfdfd;
     }
 
 }
+
