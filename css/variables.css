@@ -1,0 +1,14 @@
+:root {
+    --color-white: #fff;
+    --color-black: #000000;
+    --color-blue: #2e79ba;
+    --color-cyan: #5fc9f3;
+    --color-dark-blue: #081f37;
+    --color-deep-blue: #1e549f;
+
+    --Roboto-regular: "Roboto-regular";
+    --Roboto-medium: "Roboto-medium";
+    --Roboto-bold: "Roboto-bold";
+
+    --transition: all .3s;
+}
