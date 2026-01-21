@@ -26,6 +26,7 @@ html {
     border-radius: 13px;
     padding: 12px 19px;
     font-family: var(--Roboto-medium);
+    font-weight: 500;
     font-size: 18px;
 }
 
@@ -55,6 +56,7 @@ html {
 }
 .btn--cyan {
     font-family: var(--Roboto-medium);
+    font-weight: 500;
     background: linear-gradient(180deg, #5fc9f3 0%, #55abf5 100%);
     background-clip: text;
     -webkit-background-clip: text;
@@ -94,6 +96,7 @@ html {
 
 .title-1 {
     font-family: var(--Roboto-bold);
+    font-weight: 600;
     font-size: 64px;
 }
 
@@ -102,4 +105,5 @@ html {
     letter-spacing: 0.1em;
     font-family: var(--Roboto-regular);
     text-transform: uppercase;
+
 }
